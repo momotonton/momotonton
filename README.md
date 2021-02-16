@@ -1,11 +1,11 @@
 ## momotonton <sub> @momotonton</sub>
-    Learning the connections between people...⚙
+    Learning from the world : Interactive Experience..⚙
 
 
 ## 💡  Interest
   - Interative program (Web, APP, AR/VR...📸)
   - Currently Studying hard to be a Web Developer😵
-  - Aim to be a Experience Engineer
+  - Aim to be a Experience Developer
 
 
 # 👋  Contact
