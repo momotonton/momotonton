@@ -4,7 +4,6 @@
 
 ## 💡  Interest
   - Interative program (Web, APP, AR/VR...📸)
-  - Currently Studying hard to be a Web Developer😵
   - Aim to be a Experience Developer
 
 
