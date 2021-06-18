@@ -6,8 +6,9 @@
 ## 💡  Interest
   - Interative program (Web, APP, AR/VR...📸)
   - Aim to be a Experience Developer
+  
+## 🌎  Study
   - CodeStates AI 04 (21.05~)
-
 
 ## 🌈 Contact
 <div align=center>
