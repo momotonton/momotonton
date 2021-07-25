@@ -4,7 +4,7 @@
 
 
 ## 💡  Interest
-  - Interative Things (Web, APP, AR/VR...📸)
+  - Interactive Things (Web, APP, AR/VR...📸)
   - Aim to be a Experience Developer
   
 ## 🌎  Study
