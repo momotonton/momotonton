@@ -1,11 +1,11 @@
 ## momotonton <sub> @momotonton</sub>
-    Learning from the world : Interactive Experience..⚙
+    Learning from The World : Interactive Developer..⚙
 
 
 
 ## 💡  Interest
   - Interactive Things (Web, APP, AR/VR...📸)
-  - Aim to be a Experience Developer
+  - Aim to be a Experienced Developer
   
 ## 🌎  Study
   - CodeStates AI 04 (21.05~)
