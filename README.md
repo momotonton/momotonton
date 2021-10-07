@@ -1,17 +1,17 @@
 ## momotonton <sub> @momotonton</sub>
-    Learning from The World : Interactive Developer..⚙
+
+Learning from The World : Interactive Developer..⚙
 
 
 
 ## 💡  Interest
-
-    💡 Interest - Interactive things (Communication , Education , Metaverse , AR/VR )
-    🐣 Aim to be User experience Developer
+💡 Interest - Interactive things (Communication , Education , Metaverse , AR/VR )
+🐣 Aim to be User experience Developer
     
   
 ## 🌎  Study
 
-   ~~CodeStates AI 04 (21.05 ~ 21.10)~~
+~~CodeStates AI 04 (21.05 ~ 21.10)~~
     
 ## 🌈 Contact
 <div align=center>
