@@ -4,12 +4,15 @@
 
 
 ## 💡  Interest
-  - Interactive Things (Web, APP, AR/VR...📸)
-  - Aim to be a Experienced Developer
+
+    💡 Interest - Interactive things (Communication , Education , Metaverse , AR/VR )
+    🐣 Aim to be User experience Developer
+    
   
 ## 🌎  Study
-  - CodeStates AI 04 (21.05~)
 
+   ~~CodeStates AI 04 (21.05 ~ 21.10)~~
+    
 ## 🌈 Contact
 <div align=center>
 
