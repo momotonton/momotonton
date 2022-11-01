@@ -12,7 +12,7 @@ Learning from The World ..⚙
 
 ## 🌎  Study
 
-~~CodeStates AI 04 (21.05 ~ 21.10)~~
+CodeStates AI 04 (21.05 ~ 21.10)
 
 ## 🌈 Contact
 <div align=center>
