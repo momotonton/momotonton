@@ -1,7 +1,7 @@
 ## momotonton <sub> @momotonton</sub>
 
 
-Learning from The World ..⚙
+Learning from The World..⚙
 
 ## 💡  Interest
 
