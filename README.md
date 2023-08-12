@@ -1,7 +1,7 @@
 ## momotonton <sub> @momotonton</sub>
 
-Learning from The World..⚙
-Currently working in Japan as Cloud Engineer ( 21.10~ ) 💡 <br>
+Learning from The World..⚙ <br>
+Currently working in Japan as Cloud Engineer 💻 ( 21.10~ )
 
 ## 💡  Interest
 
