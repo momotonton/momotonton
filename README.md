@@ -1,13 +1,12 @@
 ## momotonton <sub> @momotonton</sub>
 
 Learning from The World..⚙
+Currently working in Japan as Cloud Engineer ( 21.10~ ) 💡 <br>
 
 ## 💡  Interest
 
 Passionate about SysOps and DevOps Cloud 🚄 <br>
-Currently working in Japan as Cloud Engineer ( 21.10~ ) 💡 <br>
 Aim to be Interactive Developer 🐣 
-
 
 ## 🌎  Study
 
