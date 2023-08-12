@@ -1,13 +1,12 @@
 ## momotonton <sub> @momotonton</sub>
 
-
 Learning from The World..⚙
 
 ## 💡  Interest
 
-
-💡 Interactive things (Communication , Education , Metaverse , AR/VR )<br>
-🐣 Aim to be User experience Developer
+Passionate about SysOps and DevOps Cloud 🚄 <br>
+Currently working in Japan as Cloud Engineer ( 21.10~ ) 💡 <br>
+Aim to be Interactive Developer 🐣 
 
 
 ## 🌎  Study
